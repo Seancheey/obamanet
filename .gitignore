@@ -1,0 +1,10 @@
+*.mp4
+*.en.vtt
+*.png
+*.pickle
+*.pdf
+.DS_Store
+.idea/
+venv/
+checkpoints/
+
