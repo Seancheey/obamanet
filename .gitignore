@@ -3,8 +3,10 @@
 *.png
 *.pickle
 *.pdf
+*.wav
+*.pyc
 .DS_Store
 .idea/
 venv/
 checkpoints/
-
+__cache__/
